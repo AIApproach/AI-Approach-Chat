@@ -1,0 +1,13 @@
+flask
+langchain
+faiss-cpu
+pymupdf
+python-docx
+python-pptx
+pdfplumber
+google-generativeai
+python-dotenv
+markdown
+numpy
+sentence-transformers
+werkzeug

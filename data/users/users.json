@@ -1,0 +1,18 @@
+{
+  "admin": {
+    "username": "admin",
+    "password": "123",
+    "created_at": "2025-08-02T18:19:02.775911"
+  },
+  "Alaadin": {
+    "username": "Alaadin",
+    "password": "123",
+    "created_at": "2025-08-03T17:15:15.532310",
+    "wallpaper": "uploads/Alaadin/wallpaper_dify.png"
+  },
+  "Aladdin": {
+    "username": "Aladdin",
+    "password": "123",
+    "created_at": "2025-08-14T00:17:36.568083"
+  }
+}
